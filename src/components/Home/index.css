@@ -1,0 +1,39 @@
+.dest-head {
+  font-family: "Roboto";
+  color: #000000;
+  margin-left: 10px;
+  text-decoration: underline;
+}
+.banner {
+  height: 450px;
+  width: 100%;
+}
+.dest-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 90%;
+}
+.card {
+  border-style: solid;
+  border-width: 1px;
+  width: 300px;
+  margin: 10px;
+  padding: 8px;
+}
+.tour-image {
+  height: 150px;
+  width: 100%;
+}
+.name {
+  font-size: 22px;
+}
+.view-but {
+  background-color: brown;
+  border-width: 0px;
+  color: #fff;
+  cursor: pointer;
+  margin-top: 0px;
+}

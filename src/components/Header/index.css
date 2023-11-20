@@ -1,0 +1,30 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: aliceblue;
+}
+.ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 30px;
+}
+.logo {
+  height: 80px;
+  border-radius: 40px;
+  width: 80px;
+  background-color: aliceblue;
+}
+li {
+  margin: 5px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.link {
+  text-decoration: none;
+}

@@ -1,0 +1,27 @@
+.form-details {
+  background-color: rgb(200, 224, 243);
+  padding: 20px;
+  height: 100vh;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  width: 50%;
+}
+.form-but {
+  background-color: blue;
+  border-width: 0px;
+  border-radius: 7px;
+  color: #fff;
+  padding: 5px;
+  cursor: pointer;
+}
+.sp {
+  color: gold;
+}
+.contact-img {
+  height: 200px;
+  width: 50%;
+}
