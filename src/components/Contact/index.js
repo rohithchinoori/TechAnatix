@@ -41,7 +41,7 @@ const ContactUs = () => {
       <Header />
       <div className="form-details">
         <img
-          src="https://img.freepik.com/free-photo/tourist-with-small-notepad-table_23-2147732618.jpg?w=996&t=st=1700446369~exp=1700446969~hmac=05850169cdb287c39ad0dfd98ec43286625d3f7b3463219d43818751cef90526"
+          src="https://img.freepik.com/premium-photo/man-showing-contact-us-message-paper_220873-12103.jpg?w=1380"
           alt="contact-banner"
           className="contact-img"
         />

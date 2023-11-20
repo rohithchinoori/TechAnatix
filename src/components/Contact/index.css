@@ -1,7 +1,6 @@
 .form-details {
   background-color: rgb(200, 224, 243);
   padding: 20px;
-  height: 100vh;
 }
 .form {
   display: flex;
@@ -22,6 +21,6 @@
   color: gold;
 }
 .contact-img {
-  height: 200px;
-  width: 50%;
+  height: 350px;
+  width: 100%;
 }

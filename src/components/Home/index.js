@@ -64,12 +64,12 @@ const Home = () => (
     <Header />
     <div>
       <img
-        src="https://img.freepik.com/free-vector/hand-drawn-travel-twitter-header_23-2149123013.jpg?w=1380&t=st=1700444219~exp=1700444819~hmac=b357cb9f51c3030f616c72d4524f48d21b2302e30047fde73f9209872fa559da"
+        src="https://img.freepik.com/free-vector/travel-agency-template-design_23-2149571419.jpg?w=1380&t=st=1700475308~exp=1700475908~hmac=1cdab5b9235ab4a2bd477ad95676392022376e88bb94ad72798c2fd69866573f"
         alt="banner"
         className="banner"
       />
     </div>
-    <h1 className="dest-head">Top Destinations</h1>
+    <h1 className="dest-head">Top Destinations :</h1>
     <ul className="dest-list">
       {destination.map((eachItem) => (
         <div className="card">
